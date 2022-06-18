@@ -1,0 +1,30 @@
+.section-p{
+
+    margin: 30px;
+    display: inline;
+    font-family: sans-serif;
+
+}
+header{
+    color: blue;
+    background-color: black;
+    
+}
+nav a{
+    text-decoration: none;
+}
+
+.article-p{
+    padding: 30px;
+    float: right;
+    width: 50%;
+    margin: 20px;
+
+
+}
+.aside-p{
+    display: inline-block;
+}
+footer{
+    color: rgb(10, 19, 117);
+}
